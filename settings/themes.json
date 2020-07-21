@@ -24,8 +24,8 @@
     "waveBottom": 100,
     "captionFont": "300 52px 'DCC - Ash'",
     "captionTop": 560,
-    "captionLeft": 20,
-    "captionRight": 620,
+    "captionLeft": 5,
+    "captionRight": 635,
     "foregroundColor": "#ffffff",
     "backgroundImage": "Standby to Pivot Cover Art.jpg"
   },
