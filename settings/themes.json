@@ -100,6 +100,18 @@
     "captionLeft": 20,
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
+    "backgroundImage": "Standby to Pivot Cover Art.jpg"
+  },
+  "Standby to Pivot": {
+    "width": 3000,
+    "height": 3000,
+    "samplesPerFrame": 64,
+    "waveTop": 20,
+    "waveBottom": 300,
+    "captionTop": 340,
+    "captionLeft": 20,
+    "captionRight": 620,
+    "foregroundColor": "#0eb8ba",
+    "backgroundImage": "Standby to Pivot Cover Art.jpg"
   }
 }
