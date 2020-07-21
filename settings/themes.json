@@ -15,6 +15,20 @@
     "captionLeft": 200,
     "captionRight": 1080
   },
+  "Standby to Pivot": {
+    "pattern": "bars",
+    "width": 640,
+    "height": 640,
+    "samplesPerFrame": 64,
+    "waveTop": 20,
+    "waveBottom": 100,
+    "captionFont": "300 52px 'DCC - Ash'",
+    "captionTop": 560,
+    "captionLeft": 20,
+    "captionRight": 620,
+    "foregroundColor": "#ffffff",
+    "backgroundImage": "Standby to Pivot Cover Art.jpg"
+  },
   "Basic": {
     "backgroundColor": "#eee",
     "foregroundColor": "#de1e3d"
@@ -100,18 +114,6 @@
     "captionLeft": 20,
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
-    "backgroundImage": "Standby to Pivot Cover Art.jpg"
-  },
-  "Standby to Pivot": {
-    "width": 3000,
-    "height": 3000,
-    "samplesPerFrame": 64,
-    "waveTop": 20,
-    "waveBottom": 300,
-    "captionTop": 340,
-    "captionLeft": 20,
-    "captionRight": 620,
-    "foregroundColor": "#ffffff",
     "backgroundImage": "Standby to Pivot Cover Art.jpg"
   }
 }
