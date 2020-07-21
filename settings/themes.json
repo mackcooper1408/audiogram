@@ -103,8 +103,8 @@
     "backgroundImage": "Standby to Pivot Cover Art.jpg"
   },
   "Standby to Pivot": {
-    "width": 640,
-    "height": 640,
+    "width": 3000,
+    "height": 3000,
     "samplesPerFrame": 64,
     "waveTop": 20,
     "waveBottom": 300,
