@@ -94,8 +94,11 @@ ul {
 }
 
 body {
-  background-color: #fff;
-  color: #000000;
+  background-image: url("seats.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #000000;
+  color: #fff;
   font-size: 16px;
   font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 }
